@@ -1,0 +1,14 @@
+name,guessDistribution,gamesPlayed,gamesPlayedOnLastWin,wins,winRate,winStreak,longestStreak
+
+mike,"[1, 0, 0, 0, 0, 0]",1,1,1,1.0,1,1
+
+ico,"[3, 0, 0, 0, 0, 0]",3,3,3,1.0,3,3
+
+carl,"[0, 0, 1, 0, 0, 0]",1,1,1,1.0,1,1
+
+Liam,"[0, 0, 0, 0, 0, 1]",1,0,0,0.0,0,0
+
+doug,"[0, 0, 0, 0, 0, 1]",1,0,0,0.0,0,0
+
+liam,"[0, 0, 0, 0, 0, 1]",1,0,0,0.0,0,0
+
